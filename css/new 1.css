@@ -1,0 +1,16 @@
+h1.nocentre{
+	font-size: 100px;
+	color: yellow;
+}
+
+h2#idteste{
+	color: red;
+}
+
+h1.centre123{
+	color: purple;
+}
+
+body {
+	background-color:blue;
+}
